@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+![](1651078516373.jpg)
+*Yo a la izquierda junto a mi mejor amigo en la carretera Austral*
+
+
+
+
+Hola mi nombre es Jorge Hewstone, vivo en Santiago de Chile actualmente soy estudiante de Ingeniería en Matemáticas de la Universidad de Chile y trabajo en el CIAE(Centro de investigación avanzada en educación) como investigador Junior.
+
+Hello, my name is Jorge Hewstone. I currently live in Santiago, Chile. I am a Mathematics Engineering student at the University of Chile and I work at CIAE (Center for Advanced Research in Education) as a Junior researcher.
 
 <!--
 **ErdosHewstone/ErdosHewstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
