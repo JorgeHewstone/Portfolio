@@ -1,0 +1,6 @@
+Fusiona estos resúmenes por ventana y produce un OVERALL SUMMARIZE (240–320 palabras) útil para captar ideas, tecnologías, empresas/personas, cambios de paradigma, riesgos y oportunidades. No repitas literal ni inventes.
+
+Resúmenes por ventana (JSON):
+[[WINDOWS_JSON]]
+
+Devuelve SOLO el texto del OVERALL SUMMARIZE, en español.
