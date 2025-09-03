@@ -198,6 +198,4 @@ outputs/
 * [ ] Logs de tokens/tiempo por petición.
 * [ ] Frontend web minimalista sobre `/summarize`.
 
----
 
-¿Quieres que te agregue en este README también un **ejemplo de petición con `curl` y con `Python requests`** para que cualquiera pueda probar la API sin abrir Swagger?
